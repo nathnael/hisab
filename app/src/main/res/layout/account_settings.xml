@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+    <TextView
+        android:id="@+id/bank_label"
+        android:layout_width="80dp"
+        android:layout_height="@dimen/default_element_height"
+        android:gravity="left|center_vertical"
+        android:text="@string/bank_label" />
+
+    <ListView
+        android:id="@+id/account_banks"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/default_element_height"
+        android:layout_toRightOf="@id/bank_label"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:singleLine="true" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <TextView
+            android:id="@+id/bank_account_label"
+            android:layout_width="80dp"
+            android:layout_height="@dimen/default_element_height"
+            android:gravity="left|center_vertical"
+            android:text="@string/bank_account_label" />
+
+        <EditText
+            android:id="@+id/bank_account"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/default_element_height"
+            android:layout_toRightOf="@id/bank_account_label"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:enabled="false"
+            android:singleLine="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="80dp"
+            android:enabled="false"
+            android:text="Save"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+</LinearLayout>

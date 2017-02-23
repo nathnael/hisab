@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .banner{background:#B48CE3;color:#FFFFFF;font-family:berlin sans fb}
+        .header>.text{color:#732FC4;}
+        .header>div>.invoice{background:#B48CE3;color:#FFFFFF;font-style:bold;font-size:x-large;text-align:left;padding-left:2px; padding-right:57px;}
+        .right{text-align:right}
+        td,th {border:1px solid #732FC4;}
+        span.item{margin-left:40px; margin-right:40px;}
+        th>span{margin-right:10px;margin-left:10px;}
+        tbody>tr:nth-child(odd) {
+        background-color: #B48CE3;
+        }
+        div.footer{margin-top:40px;background-color:#B48CE3;}
+    </style>
+    <script>
+function setInvoice(invoiceDate, invoiceNumbar){
+	document.getElementById("invoice-date").innerHTML = invoiceDate;
+	document.getElementById("invoice-no").innerHTML = invoiceNumbar;
+}
+function addItem(description, quantity, unitprice, taxable, taxRate){
+	var taxable_tag = document.getElementById("taxable");
+	var tax_tag = document.getElementById("tax");
+	var total_tag = document.getElementById("total");
+	var _taxable = parseFloat(taxable_tag.innerHTML);
+	var _tax = parseFloat(tax_tag.innerHTML);
+	var _total = parseFloat(total_tag.innerHTML);
+	var itemsList = document.getElementById("items-list");
+	var item = document.createElement("tr");
+	var itemDesc = document.createElement("td");
+	itemDesc.innerHTML = description;
+	item.appendChild(itemDesc);
+	var itemQuant = document.createElement("td");
+	itemQuant.setAttribute("class", "right");
+	itemQuant.innerHTML = quantity;
+	item.appendChild(itemQuant);
+	var itemUPrice = document.createElement("td");
+	itemUPrice.setAttribute("class", "right");
+	itemUPrice.innerHTML = unitprice.toFixed(2);
+	item.appendChild(itemUPrice);
+	var itemTotal = document.createElement("td");
+	itemTotal.setAttribute("class", "right");
+	itemTotal.innerHTML = (quantity*unitprice).toFixed(2);
+	item.appendChild(itemTotal);
+	if(taxable){
+		_taxable+=quantity*unitprice;
+		_tax+=quantity*unitprice*taxRate;
+		_total+= (quantity*unitprice + quantity*unitprice*taxRate);
+	} else {
+		_total+= quantity*unitprice;
+	}
+	itemsList.appendChild(item);
+	taxable_tag.innerHTML = _taxable.toFixed(2);
+	tax_tag.innerHTML = _tax.toFixed(2);
+	total_tag.innerHTML = _total.toFixed(2);
+}
+</script>
+</head>
+<body>
+<div class="header">
+    <div class="banner">EmmaJack Software Systems PLC</div>
+    <div class="text">TIN:<span id="tin">0013705363</span></div>
+    <div class="text">DATE:<span id="invoice-date">01-24-2017 14:27</span></div>
+    <div class="text">No:<span id="invoice-no"></span></div>
+    <div><span class="invoice">INVOICE</span></div>
+</div>
+<table>
+    <thead>
+    <tr>
+        <th><span class="item">Item</span></th><th class="right"><span>Quant.</span></th><th class="right"><span>U.Price</span></th><th class="right"><span>Total</span></th>
+    </tr>
+    </thead>
+    <tbody id="items-list">
+    </tbody>
+    <tfoot>
+    <tr><th colspan="3" class="right">Taxable</th><th id="taxable" class="right">0.00</th></tr>
+    <tr><th colspan="3" class="right">Tax</th><th id="tax" class="right">0.00</th></tr>
+    <tr><th colspan="3" class="right">Total</th><th id="total" class="right">0.00</th></tr>
+    </tfoot>
+</table>
+<div class="footer">At your service with honor</div>
+</body>
+</html>

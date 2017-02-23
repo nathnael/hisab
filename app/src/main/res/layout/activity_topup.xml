@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:columnCount="3"
+    android:orientation="horizontal"
+    android:rowCount="2">
+
+    <ImageButton
+        android:id="@+id/topup_5"
+        android:tag="5"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:layout_margin="30dp"
+        android:background="@drawable/topup_button"
+        android:onClick="launch"
+        android:src="@drawable/tfor5" />
+
+    <ImageButton
+        android:id="@+id/topup_10"
+        android:tag="10"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:background="@drawable/topup_button"
+        android:onClick="launch"
+        android:src="@drawable/tfor10" />
+
+    <ImageButton
+        android:id="@+id/topup_15"
+        android:tag="15"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:background="@drawable/topup_button"
+        android:onClick="launch"
+        android:src="@drawable/tfor15" />
+
+    <ImageButton
+        android:id="@+id/topup_25"
+        android:tag="25"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:background="@drawable/topup_button"
+        android:onClick="launch"
+        android:src="@drawable/tfor25" />
+
+    <ImageButton
+        android:id="@+id/topup_50"
+        android:tag="50"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:background="@drawable/topup_button_selector"
+        android:onClick="launch"
+        android:src="@drawable/tfor50" />
+
+    <ImageButton
+        android:id="@+id/topup_100"
+        android:tag="100"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:background="@drawable/topup_button"
+        android:onClick="launch"
+        android:src="@drawable/tfor100" />
+</GridLayout>

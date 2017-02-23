@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mehaleq</string>
+    <string name="action_settings">Settings</string>
+    <string name="bank_label">Bank</string>
+    <string name="bank_account_label">Bank Account</string>
+    <string name="password_label">Password</string>
+    <string name="transaction_label">Transaction PIN</string>
+    <string name="accessibility_description">This service records pop ups sent by your mobile operator, and saves them in Mehaleq App. It is absolutely safe to use.</string>
+</resources>
