@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_discount.png",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\drawable-xxxhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_movie.png",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\drawable-xxxhdpi\\ic_movie.png"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_food.png",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\drawable-xxxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_right_dark.png",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\drawable-xxxhdpi\\ic_right_dark.png"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_travel.png",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\drawable-xxxhdpi\\ic_travel.png"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_right_white.png",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\drawable-xxxhdpi\\ic_right_white.png"
+    }
+]

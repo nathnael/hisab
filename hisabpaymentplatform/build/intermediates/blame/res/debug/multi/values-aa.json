@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-aa\\values-aa.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 136,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\states.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 136,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 97,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\states.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 97,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 121,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\states.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 121,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 106,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\states.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 106,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 57,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\states.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 57,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 41,
+                    "endOffset": 614
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 41,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 619,
+                    "endColumn": 42,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 75,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 599,
+                        "endColumn": 75,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 37,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 37,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 41,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 41,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 47,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 47,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 37,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 37,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 52,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 52,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 60,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 60,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 52,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 51,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 835,
+                        "endColumn": 51,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 62,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 62,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 75,
+                    "endOffset": 1257
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 75,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1262,
+                    "endColumn": 52,
+                    "endOffset": 1310
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 52,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1315,
+                    "endColumn": 50,
+                    "endOffset": 1361
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 50,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1366,
+                    "endColumn": 64,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-aa\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 64,
+                        "endOffset": 790
+                    }
+                }
+            }
+        ]
+    }
+]

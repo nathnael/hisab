@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\HiSab\\Mehaleq\\tranxmanager\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\HiSab\\Mehaleq\\tranxmanager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\HiSab\\Mehaleq\\tranxmanager\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\HiSab\\Mehaleq\\tranxmanager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

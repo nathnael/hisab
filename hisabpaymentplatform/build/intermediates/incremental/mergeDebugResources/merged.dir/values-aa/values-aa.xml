@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BANK_CONFIRMATION_SMS_CREDITADVICE">SMS Credite Advice Bank Confirmation#SMS Credite Advice Bank Confirmation</string>
+    <string name="BANK_CONFIRMATION_USSD"> USSD Bank Confirmation#USSD Bank Confirmation</string>
+    <string name="HISABSERVER_TOPUPCONFIRMATION">Topup Hisab server confirmation#Topup Hisab server confirmation</string>
+    <string name="HISABSERVER_TOPUPFAILURE">Hisab server topup failure#Hisab server topup failure</string>
+    <string name="PENDING">Pending#Pending state</string>
+    <string name="action">Action</string>
+    <string name="app_name">Hisab</string>
+    <string name="bank_account_management">Bank Account Management</string>
+    <string name="exit">Exit</string>
+    <string name="for_me">For me</string>
+    <string name="for_other">For Other</string>
+    <string name="help">Help</string>
+    <string name="last_birr_sent">Last Sent</string>
+    <string name="lasttransferto">Last Transfer to:</string>
+    <string name="makePayment">Make Payment</string>
+    <string name="remember_me">Remember me</string>
+    <string name="salesinformation">Sales Information</string>
+    <string name="showtransactionhistory">Show Transaction History</string>
+    <string name="totalProfit">Total Profit</string>
+    <string name="totalsales">Total Sales</string>
+    <string name="transactionstatus">Transaction status</string>
+</resources>

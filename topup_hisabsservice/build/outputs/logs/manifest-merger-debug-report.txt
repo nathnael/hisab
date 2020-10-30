@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\2d5688375983e8db17a15473b6e7e158\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:preference-v14:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v14-24.2.0.aar\860205f9d4a709eed1d0608b8a20a00b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:preference-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v7-24.2.0.aar\cd050c54ce1ea85aea7a11598eaa7da7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\32f1f5852a20135f4173c68a39d1a69d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\10305000f567d9b6eec067c7187361c0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\6fed8564c6e257a668de207ff1598a13\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\6c0b3024705cc088b374e26767aadfcf\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\f3c6ee5dd7293b5aa620023a5a35c707\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\5055d4b4076495cf3aaa3e1b8e0994b6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta5.aar\9b9ca648ea2857e3fcc7edf9274a4eff\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\dafee98c8ff42e8d39f8ec2e4a27c3f6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\rxbinding-0.4.0.aar\ad9512b409aac6e5329f512b28ed28f1\AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\f56536c8310cf2fe9b3813b884d01993\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\04d857e0fbbe3cc0800c167ed9008dec\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\357d4d543aea27910b669aa02e94765d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1b7e50e0cffacbe9094747723d831417\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\65cae39ac69b30b1d8573360f662694e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\56f9b4b88aaa5ba119035c556397b75b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cd4ce454dd8b1d5f80eb2bf2211d6c74\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\35f885e1f65fb46e8b4d107a84ae4e30\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\c632f9d9de276791b69606b51ef3f993\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b35ac0a84f20aea1080724090dcb8fda\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:4:5-52
+	android:versionName
+		INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:6:5-34:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\2d5688375983e8db17a15473b6e7e158\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\2d5688375983e8db17a15473b6e7e158\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:preference-v14:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v14-24.2.0.aar\860205f9d4a709eed1d0608b8a20a00b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v14:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v14-24.2.0.aar\860205f9d4a709eed1d0608b8a20a00b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v7-24.2.0.aar\cd050c54ce1ea85aea7a11598eaa7da7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v7-24.2.0.aar\cd050c54ce1ea85aea7a11598eaa7da7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\32f1f5852a20135f4173c68a39d1a69d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\32f1f5852a20135f4173c68a39d1a69d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\10305000f567d9b6eec067c7187361c0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\10305000f567d9b6eec067c7187361c0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\6fed8564c6e257a668de207ff1598a13\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\6fed8564c6e257a668de207ff1598a13\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\f3c6ee5dd7293b5aa620023a5a35c707\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\f3c6ee5dd7293b5aa620023a5a35c707\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\5055d4b4076495cf3aaa3e1b8e0994b6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\5055d4b4076495cf3aaa3e1b8e0994b6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta5.aar\9b9ca648ea2857e3fcc7edf9274a4eff\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta5.aar\9b9ca648ea2857e3fcc7edf9274a4eff\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\dafee98c8ff42e8d39f8ec2e4a27c3f6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\dafee98c8ff42e8d39f8ec2e4a27c3f6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\04d857e0fbbe3cc0800c167ed9008dec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\04d857e0fbbe3cc0800c167ed9008dec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\357d4d543aea27910b669aa02e94765d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\357d4d543aea27910b669aa02e94765d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1b7e50e0cffacbe9094747723d831417\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1b7e50e0cffacbe9094747723d831417\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\56f9b4b88aaa5ba119035c556397b75b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\56f9b4b88aaa5ba119035c556397b75b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cd4ce454dd8b1d5f80eb2bf2211d6c74\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cd4ce454dd8b1d5f80eb2bf2211d6c74\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\35f885e1f65fb46e8b4d107a84ae4e30\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\35f885e1f65fb46e8b4d107a84ae4e30\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\c632f9d9de276791b69606b51ef3f993\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\c632f9d9de276791b69606b51ef3f993\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b35ac0a84f20aea1080724090dcb8fda\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b35ac0a84f20aea1080724090dcb8fda\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:8:9-53
+	android:allowBackup
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:11:9-40
+	tools:replace
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:12:9-30
+activity#com.emmajack.hisab.topup_hisabservice.dashboardmenu.Service_topup
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:13:9-30:20
+	android:parentActivityName
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:16:13-102
+	android:exported
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:14:13-56
+intent-filter#android.intent.category.DEFAULT+com.emmajack.hisab.topup_hisabservice.dashboardmenu.Service_topup
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:19:13-23:29
+action#com.emmajack.hisab.topup_hisabservice.dashboardmenu.Service_topup
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:20:17-108
+	android:name
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:20:25-105
+category#android.intent.category.DEFAULT
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:22:27-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:28:27-74
+activity#com.emmajack.hisab.topup_hisabservice.activity.MainActivity
+ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:31:9-33:20
+	android:name
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml:31:19-56
+uses-sdk
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\2d5688375983e8db17a15473b6e7e158\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\2d5688375983e8db17a15473b6e7e158\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:preference-v14:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v14-24.2.0.aar\860205f9d4a709eed1d0608b8a20a00b\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:preference-v14:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v14-24.2.0.aar\860205f9d4a709eed1d0608b8a20a00b\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:preference-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v7-24.2.0.aar\cd050c54ce1ea85aea7a11598eaa7da7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:preference-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\preference-v7-24.2.0.aar\cd050c54ce1ea85aea7a11598eaa7da7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\32f1f5852a20135f4173c68a39d1a69d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\32f1f5852a20135f4173c68a39d1a69d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\10305000f567d9b6eec067c7187361c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\transition-25.1.0.aar\10305000f567d9b6eec067c7187361c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\6fed8564c6e257a668de207ff1598a13\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\6fed8564c6e257a668de207ff1598a13\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\6c0b3024705cc088b374e26767aadfcf\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\6c0b3024705cc088b374e26767aadfcf\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\f3c6ee5dd7293b5aa620023a5a35c707\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\f3c6ee5dd7293b5aa620023a5a35c707\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\5055d4b4076495cf3aaa3e1b8e0994b6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\5055d4b4076495cf3aaa3e1b8e0994b6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta5.aar\9b9ca648ea2857e3fcc7edf9274a4eff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-beta5.aar\9b9ca648ea2857e3fcc7edf9274a4eff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\dafee98c8ff42e8d39f8ec2e4a27c3f6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.2.0.aar\dafee98c8ff42e8d39f8ec2e4a27c3f6\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\rxbinding-0.4.0.aar\ad9512b409aac6e5329f512b28ed28f1\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\rxbinding-0.4.0.aar\ad9512b409aac6e5329f512b28ed28f1\AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\f56536c8310cf2fe9b3813b884d01993\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\f56536c8310cf2fe9b3813b884d01993\AndroidManifest.xml:19:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\04d857e0fbbe3cc0800c167ed9008dec\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\04d857e0fbbe3cc0800c167ed9008dec\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\357d4d543aea27910b669aa02e94765d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\357d4d543aea27910b669aa02e94765d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1b7e50e0cffacbe9094747723d831417\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\1b7e50e0cffacbe9094747723d831417\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\65cae39ac69b30b1d8573360f662694e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.0.aar\65cae39ac69b30b1d8573360f662694e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\56f9b4b88aaa5ba119035c556397b75b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\56f9b4b88aaa5ba119035c556397b75b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cd4ce454dd8b1d5f80eb2bf2211d6c74\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cd4ce454dd8b1d5f80eb2bf2211d6c74\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\35f885e1f65fb46e8b4d107a84ae4e30\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\35f885e1f65fb46e8b4d107a84ae4e30\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\c632f9d9de276791b69606b51ef3f993\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\c632f9d9de276791b69606b51ef3f993\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b35ac0a84f20aea1080724090dcb8fda\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b35ac0a84f20aea1080724090dcb8fda\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\design-25.1.0.aar\2d5688375983e8db17a15473b6e7e158\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+		INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+		ADDED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+		INJECTED from D:\My Files\hisab\topup_hisabsservice\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\f3c6ee5dd7293b5aa620023a5a35c707\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\f3c6ee5dd7293b5aa620023a5a35c707\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\nathnael.getahun\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\f3c6ee5dd7293b5aa620023a5a35c707\AndroidManifest.xml:22:13-58

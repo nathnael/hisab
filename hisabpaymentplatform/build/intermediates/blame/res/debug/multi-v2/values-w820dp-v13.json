@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "295,354,411,466",
+                        "endColumns": "57,55,53,47",
+                        "endOffsets": "348,405,460,509"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,169,223",
+                        "endColumns": "57,55,53,47",
+                        "endOffsets": "108,164,218,266"
+                    }
+                }
+            ]
+        }
+    ]
+}

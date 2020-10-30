@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\menu\\topup_bottom.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\menu\\topup_bottom.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\menu\\menu_hisab_payment.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\menu\\menu_hisab_payment.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\menu\\notifications.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\menu\\notifications.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\menu\\menu_topup.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\menu\\menu_topup.xml"
+    }
+]

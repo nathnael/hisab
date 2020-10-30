@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\My Files\\hisab\\common\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\nathnael.getahun\\.android\\build-cache\\2997f578d594c61a4b7e05417318fe1e141a247f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\common\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\nathnael.getahun\\.android\\build-cache\\2997f578d594c61a4b7e05417318fe1e141a247f\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\common\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\nathnael.getahun\\.android\\build-cache\\2997f578d594c61a4b7e05417318fe1e141a247f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\common\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\nathnael.getahun\\.android\\build-cache\\2997f578d594c61a4b7e05417318fe1e141a247f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

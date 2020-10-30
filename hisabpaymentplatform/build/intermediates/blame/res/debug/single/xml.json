@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\xml\\app_preferences.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\xml\\app_preferences.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\xml\\ussd_service.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\xml\\ussd_service.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\xml\\config_service.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\src\\main\\res\\xml\\config_service.xml"
+    }
+]

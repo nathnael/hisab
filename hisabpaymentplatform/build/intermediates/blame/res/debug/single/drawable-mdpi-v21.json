@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v21\\ic_notifications_black_24dp.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\generated\\res\\pngs\\debug\\drawable-mdpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v21\\ic_sync_black_24dp.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\generated\\res\\pngs\\debug\\drawable-mdpi-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v21\\cloud.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\generated\\res\\pngs\\debug\\drawable-mdpi-v21\\cloud.xml"
+    },
+    {
+        "merged": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v21\\ic_info_black_24dp.xml",
+        "source": "D:\\My Files\\hisab\\hisabpaymentplatform\\build\\generated\\res\\pngs\\debug\\drawable-mdpi-v21\\ic_info_black_24dp.xml"
+    }
+]

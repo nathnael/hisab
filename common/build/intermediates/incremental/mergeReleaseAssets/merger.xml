@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\My Files\hisab\common\src\main\assets"><file name="invoice.html" path="D:\My Files\hisab\common\src\main\assets\invoice.html"/></source><source path="D:\My Files\hisab\common\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\My Files\hisab\common\src\release\assets"/></dataSet></merger>
